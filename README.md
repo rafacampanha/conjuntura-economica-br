@@ -1,5 +1,7 @@
 # 📈 Conjuntura Econômica Brasil
 
+[![Testes](https://github.com/rafacampanha/conjuntura-economica-br/actions/workflows/testes.yml/badge.svg)](https://github.com/rafacampanha/conjuntura-economica-br/actions/workflows/testes.yml)
+
 Pipeline em Python que coleta indicadores macroeconômicos em **APIs públicas** (Banco Central e IBGE), trata as séries e entrega uma base pronta para um **painel no Power BI**: inflação, juros, câmbio e produção industrial.
 
 > Projeto pessoal inspirado no tipo de painel de conjuntura que desenvolvo no trabalho. Aqui ele é refeito do zero, só com dados públicos.
